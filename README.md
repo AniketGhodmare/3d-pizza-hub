@@ -7,7 +7,9 @@ Dynamic Customization → Change pizza size, add/remove toppings (Onion, Chili F
 
 # 3D Animations →
 Pizza packs itself into a box 📦
+
 Drone picks up the pizza and flies it toward home 🚁
+
 Responsive UI → Works seamlessly on all devices.
 
 # ⚡ Tech Stack
